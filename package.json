@@ -1,9 +1,14 @@
 {
+  "private": true,
   "scripts": {
-    "dev": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch",
-    "build": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --minify"
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "tailwindcss": "^3.2.1"
+    "@nuxtjs/tailwindcss": "^6.1.3",
+    "nuxt": "3.0.0"
   }
 }
