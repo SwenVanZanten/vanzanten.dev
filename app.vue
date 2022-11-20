@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-slate-100 h-full">
+  <div class="bg-slate-100 min-h-screen">
     <div class="bg-white">
       <div class="container max-w-7xl mx-auto p-8 md:py-16">
         <div class="flex md:flex-row flex-col justify-center items-center">
