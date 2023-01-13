@@ -21,9 +21,9 @@
               <div class="pt-6 md:p-8 text-center md:text-left space-y-4">
                 <div class="text-lg font-medium">
                   <p>
-                    “I'm a 34-year-old developer from The Netherlands. I've been working on software various
-                    projects
-                    starting from the early 2002's, and since, I've learned many different aspects and
+                    “I'm a 34-year-old developer from The Netherlands. I've been working on various
+                    software projects
+                    starting from the early 2000's, and since, I've learned many different aspects and
                     techniques of
                     the
                     profession.”
