@@ -26,7 +26,7 @@ onMounted(() => {
     <nav class="mx-auto flex max-w-7xl items-center justify-between p-6 lg:px-8" aria-label="Global">
       <div class="flex lg:flex-1">
         <a href="#" class="-m-1.5 p-1.5">
-          <span class="sr-only">Your Company</span>
+          <span class="sr-only">vanzanten.dev</span>
           <img class="h-8 w-auto" src="~/assets/images/logo.svg" alt="" />
         </a>
       </div>
@@ -51,7 +51,7 @@ onMounted(() => {
       <DialogPanel class="fixed inset-y-0 right-0 z-50 w-full overflow-y-auto bg-white px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10">
         <div class="flex items-center justify-between">
           <a href="#" class="-m-1.5 p-1.5">
-            <span class="sr-only">Your Company</span>
+            <span class="sr-only">vanzanten.dev</span>
             <img class="h-8 w-auto" src="~/assets/images/logo.svg" alt="" />
           </a>
           <button type="button" class="-m-2.5 rounded-md p-2.5 text-gray-700" @click="mobileMenuOpen = false">

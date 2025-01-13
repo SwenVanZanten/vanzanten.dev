@@ -66,7 +66,7 @@ const footerNavigation = {
           <component :is="item.icon" class="size-6" aria-hidden="true" />
         </a>
       </div>
-      <p class="mt-10 text-center text-sm/6 text-gray-600">&copy; 2024 Your Company, Inc. All rights reserved.</p>
+      <p class="mt-10 text-center text-sm/6 text-gray-600">&copy; {{ new Date().getFullYear() }} vanzanten.dev, Inc. All rights reserved.</p>
     </div>
   </footer>
 </template>
