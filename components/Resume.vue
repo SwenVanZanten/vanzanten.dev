@@ -5,21 +5,17 @@ const activity = [
   {
     id: 1,
     client: {
-      name: 'Balentic',
-      imageUrl: '/img/resume/balentic.png',
+      name: 'NettoWise',
+      imageUrl: '/img/resume/nettowise.png',
     },
-    description: 'At Balentic I worked on implementing a news article feature in their Orca application and created a public news website.',
+    description: 'I\'m currently working on a product of my own NettoWise. This product aims at easing the financial insights for ZZP\'ers, making sure they can keep track of their net income over their financial year.',
     references: [
       {
-        name: 'Orca',
-        url: 'https://orca.balentic.com/login',
+        name: 'NettoWise.nl',
+        url: 'https://nettowise.nl/',
       },
-      {
-        name: 'Balentic News',
-        url: null,
-      }
     ],
-    when: 'from 2024',
+    when: 'from 2025',
     current: true,
   },
   {
@@ -61,6 +57,26 @@ const activity = [
   {
     id: 3,
     client: {
+      name: 'Balentic',
+      imageUrl: '/img/resume/balentic.png',
+    },
+    description: 'At Balentic I worked on implementing a news article feature in their Orca application and created a public news website.',
+    references: [
+      {
+        name: 'Orca',
+        url: 'https://orca.balentic.com/login',
+      },
+      {
+        name: 'Balentic News',
+        url: null,
+      }
+    ],
+    when: 'from 2024',
+    current: false,
+  },
+  {
+    id: 4,
+    client: {
       name: 'Logius',
       imageUrl: '/img/resume/logius.png',
     },
@@ -75,7 +91,7 @@ const activity = [
     current: false,
   },
   {
-    id: 4,
+    id: 5,
     client: {
       name: 'Verge Currency',
       imageUrl: '/img/resume/verge-currency.png',
@@ -165,7 +181,3 @@ const activity = [
     </div>
   </div>
 </template>
-
-<style scoped>
-
-</style>
