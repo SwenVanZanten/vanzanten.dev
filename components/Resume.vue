@@ -71,7 +71,7 @@ const activity = [
         url: null,
       }
     ],
-    when: 'from 2024',
+    when: '2024',
     current: false,
   },
   {
